@@ -1,6 +1,6 @@
 # Dados Públicos MG
 
-Este projeto é uma aplicação web open source, destinada a facilitar a consulta e exibição de dados públicos da prefeitura. Utilizando a API de dados abertos, o projeto visa promover transparência e acesso facilitado à informação, cobrindo dados como despesas, receitas, contratos, legislação, e muito mais.
+Este projeto é uma aplicação web open source, destinada a facilitar a consulta e exibição de dados públicos de prefeituras de Minas Gerais. Utilizando a API de dados abertos, o projeto visa promover transparência e acesso facilitado à informação, cobrindo dados como despesas, receitas, contratos, legislação, e muito mais.
 
 ### Contribuindo
 
