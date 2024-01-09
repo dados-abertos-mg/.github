@@ -10,3 +10,4 @@ Estamos sempre abertos a contribuições da comunidade. Se você deseja contribu
   - Crie uma Branch: Para novas funcionalidades ou correções, crie uma branch a partir de main.
   - Faça suas Alterações: Implemente ou conserte o que desejar.
   - Envie um Pull Request: Submeta suas alterações para revisão.
+---
